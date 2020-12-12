@@ -1,0 +1,11 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Tela de login basica com CSS, HTML, NodeJs e se der um React ai!",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm install && nodejs app.js"
+  },
+  "author": "Joao",
+  "license": "ISC"
+}
