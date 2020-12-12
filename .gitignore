@@ -1,0 +1,4 @@
+# Ignorando módulos do node
+node_modules
+# Ignorando locks.json
+package-lock.json
